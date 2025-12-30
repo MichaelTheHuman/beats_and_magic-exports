@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1767124034|490549901';
+const CACHE_VERSION = '1767124407|863638227';
 /** @type {string} */
 const CACHE_PREFIX = 'RunFlowie_2-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
@@ -17,7 +17,7 @@ const ENSURE_CROSSORIGIN_ISOLATION_HEADERS = true;
 const CACHED_FILES = ["RunFlowie_2.html","RunFlowie_2.js","RunFlowie_2.offline.html","RunFlowie_2.icon.png","RunFlowie_2.apple-touch-icon.png","RunFlowie_2.worker.js","RunFlowie_2.audio.worklet.js"];
 // Files that we might not want the user to preload, and will only be cached on first load.
 /** @type {string[]} */
-const CACHABLE_FILES = ["RunFlowie_2.wasm","RunFlowie_2.pck"];
+const CACHABLE_FILES = ["RunFlowie_2.wasm","RunFlowie_2.pck","RunFlowie_2.side.wasm"];
 const FULL_CACHE = CACHED_FILES.concat(CACHABLE_FILES);
 
 self.addEventListener('install', (event) => {
