@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://d132uuqbrkwk8"
-path="res://.godot/imported/RunFlowie_2.png-aceb2cb39132ebba860df0f55e32d08f.ctex"
+uid="uid://cx0o5xjrew3g6"
+path="res://.godot/imported/RunFlowie_2.512x512.png-afc61fa44967bd622f996f2c53553a25.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://exports/html/RunFlowie_2.png"
-dest_files=["res://.godot/imported/RunFlowie_2.png-aceb2cb39132ebba860df0f55e32d08f.ctex"]
+source_file="res://exports/html/RunFlowie_2.512x512.png"
+dest_files=["res://.godot/imported/RunFlowie_2.512x512.png-afc61fa44967bd622f996f2c53553a25.ctex"]
 
 [params]
 
