@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1767123688|144214271';
+const CACHE_VERSION = '1767124034|490549901';
 /** @type {string} */
 const CACHE_PREFIX = 'RunFlowie_2-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
